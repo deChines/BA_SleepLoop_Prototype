@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start.unity
+    path: Assets/Scenes/Chapters.unity
     guid: 60a9593142f57b944b652dde8edcac2f
   - enabled: 1
     path: Assets/Scenes/AugmentedFaces.unity

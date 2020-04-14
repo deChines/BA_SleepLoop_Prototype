@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4A8E9DCF-30AB-00B6-D169-656AEFDBB49C}</ProjectGuid>
+    <ProjectGuid>{22F0C5A4-1322-40F5-78EC-A9F12042D98B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -85,19 +85,19 @@
      <None Include="Assets\GoogleARCore\Editor\ARCoreiOSDependencies.template" />
      <None Include="Assets\PlayServicesResolver\Editor\play-services-resolver_v1.2.122.0.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -343,34 +343,34 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.21f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Google.Protobuf">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Assets/GoogleARCore/SDK/Plugins/Google.Protobuf.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Assets/GoogleARCore/SDK/Plugins/Google.Protobuf.dll</HintPath>
  </Reference>
  <Reference Include="Google.IOSResolver_v1.2.122.0">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.122.0.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.122.0.dll</HintPath>
  </Reference>
  <Reference Include="Google.JarResolver_v1.2.122.0">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.122.0.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.122.0.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandler">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandlerImpl_v1.2.122.0">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.122.0.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.122.0.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>S:/Unity_projekte/BA_sleeploop_prototype/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>S:/BA_SleepLoop_Github/BA_SleepLoop_Prototype/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.21f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -735,7 +735,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{8F3FF541-4BFC-A9A0-0595-7B8F0F83B3DA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{0AF81504-9529-5C14-A5A6-495776C59FB5}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
