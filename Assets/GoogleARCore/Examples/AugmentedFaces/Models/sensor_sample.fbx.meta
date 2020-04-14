@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: d5f9377576d4e4344913d41a297a6346
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: asset.001
+    100002: FOREHEAD_LEFT
+    100004: FOREHEAD_LEFT_end
+    100006: FOREHEAD_RIGHT
+    100008: FOREHEAD_RIGHT_end
+    100010: NOSE_TIP
+    100012: NOSE_TIP_end
+    100014: root
+    100016: Sensor_center_mesh
+    100018: Sensor_left_ear_mesh
+    100020: Sensor_left_mesh
+    100022: Sensor_right_ear_mesh
+    100024: Sensor_right_mesh
+    100026: //RootNode
+    100028: asset
+    100030: Camera
+    100032: CHIN
+    100034: CHIN_end
+    100036: EAR:_RIGHT
+    100038: EAR:_RIGHT_end
+    100040: EAR_LEFT
+    100042: EAR_LEFT_end
+    100044: facemesh
+    100046: FOREHEAD_CENTER
+    100048: FOREHEAD_CENTER_end
+    100050: FOREHEAD_LEFT 1
+    100052: FOREHEAD_LEFT_end 1
+    100054: FOREHEAD_RIGHT 1
+    100056: FOREHEAD_RIGHT_end 1
+    100058: Light
+    100060: NOSE_TIP 1
+    100062: NOSE_TIP_end 1
+    100064: root 1
+    100066: UNDERNOSE
+    100068: UNDERNOSE_end
+    400000: asset.001
+    400002: FOREHEAD_LEFT
+    400004: FOREHEAD_LEFT_end
+    400006: FOREHEAD_RIGHT
+    400008: FOREHEAD_RIGHT_end
+    400010: NOSE_TIP
+    400012: NOSE_TIP_end
+    400014: root
+    400016: Sensor_center_mesh
+    400018: Sensor_left_ear_mesh
+    400020: Sensor_left_mesh
+    400022: Sensor_right_ear_mesh
+    400024: Sensor_right_mesh
+    400026: //RootNode
+    400028: asset
+    400030: Camera
+    400032: CHIN
+    400034: CHIN_end
+    400036: EAR:_RIGHT
+    400038: EAR:_RIGHT_end
+    400040: EAR_LEFT
+    400042: EAR_LEFT_end
+    400044: facemesh
+    400046: FOREHEAD_CENTER
+    400048: FOREHEAD_CENTER_end
+    400050: FOREHEAD_LEFT 1
+    400052: FOREHEAD_LEFT_end 1
+    400054: FOREHEAD_RIGHT 1
+    400056: FOREHEAD_RIGHT_end 1
+    400058: Light
+    400060: NOSE_TIP 1
+    400062: NOSE_TIP_end 1
+    400064: root 1
+    400066: UNDERNOSE
+    400068: UNDERNOSE_end
+    2000000: Camera
+    2100000: No Name
+    2100002: lambert1
+    4300000: Sensor_left_mesh
+    4300002: Sensor_right_mesh
+    4300004: Sensor_center_mesh
+    4300006: Sensor_left_ear_mesh
+    4300008: Sensor_right_ear_mesh
+    4300010: facemesh
+    9500000: //RootNode
+    10800000: Light
+    13700000: Sensor_center_mesh
+    13700002: Sensor_left_ear_mesh
+    13700004: Sensor_left_mesh
+    13700006: Sensor_right_ear_mesh
+    13700008: Sensor_right_mesh
+    13700010: facemesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
