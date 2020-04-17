@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 29
+  controlID: 66
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 42
+  controlID: 67
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 43
+  controlID: 68
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,20 +337,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/GoogleARCore/Examples/AugmentedFaces/Materials/Textures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/GoogleARCore/Examples/AugmentedFaces/Materials/Textures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Randy Chen\Documents\GitHub\BA_SleepLoop_Prototype\BA_SleepLoop_Prototype
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 66370000
-    m_LastClickedID: 14182
-    m_ExpandedIDs: 0000000066370000f0370000be380000c2380000d6380000463a000000ca9a3b
+    scrollPos: {x: 0, y: 138.49994}
+    m_SelectedIDs: 542a0000
+    m_LastClickedID: 10836
+    m_ExpandedIDs: 000000006628000026290000502a0000542a00006e2a0000942c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000066370000f0370000be380000c2380000d6380000463a0000
+    m_ExpandedIDs: 000000006628000026290000502a0000542a00006e2a0000942c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +405,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000c2d0000c22d00008e3f00005e400000000000003e230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -499,7 +499,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ead1ffff3cd2ffff56d2ffff3ed3ffff88d3ffffdad3fffff4d3ffffdcd4ffff34d5ffff8ad5ffffa4d5ffff8cd6ffffb0d6ffff9ad7fffffed7ffff54d8ffff6ed8ffffb0daffffacdbffffdedbffff42e0ffff
+      m_ExpandedIDs: d8f6ffff2af7ffff44f7ffffc0f8ffff6cfaffff6efbffffdefbffff94300000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -587,7 +587,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.009896293, y: -0.020997697, z: 0.0001927091, w: -0.9997305}
     speed: 2
-    m_Value: {x: -0.009896293, y: -0.020997697, z: 0.0001927091, w: -0.9997305}
+    m_Value: {x: -0.009896292, y: -0.020997696, z: 0.0001927091, w: -0.9997305}
   m_Size:
     m_Target: 1261.4679
     speed: 2
