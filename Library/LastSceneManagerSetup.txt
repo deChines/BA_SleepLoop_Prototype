@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/AugmentedFaces.unity
+- path: Assets/Scenes/AR_Sensors.unity
   isLoaded: 1
   isActive: 1
